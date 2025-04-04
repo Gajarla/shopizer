@@ -4,7 +4,7 @@
 
 	<groupId>com.shopizer</groupId>
 	<artifactId>shopizer</artifactId>
-	<packaging>pom</packaging>
+	<packaging>war</packaging>
 	<version>3.2.5</version>
 
 	<name>shopizer</name>
